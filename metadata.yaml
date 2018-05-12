@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '34734'
     url: http://www.gutenberg.org/2009/agents/34734
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/32658#The-Standardized-Man
 gutenberg_issued: '2010-06-02'
 gutenberg_type: Text
 identifiers:
